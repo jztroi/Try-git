@@ -1,0 +1,3 @@
+12/2/22 1.48am
+Mất ngủ. Dậy học code. Lúc thức tỉnh táo phải học thì không học, phải tới lúc không ngủ được bất bình bản thân mới học, thất vọng chưa!
+Tóm lại là lập cái file này để thử branches. Vx chưa hiểu pull request là cqq gì :))
