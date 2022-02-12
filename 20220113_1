@@ -1,7 +1,10 @@
 3.33am, so I slept & wake up at the middle of the night to learn github :))
 now at https://github.com/jztroi/merge-conflicts/pull/3/files
+I think:
 if I add a file & commit it, file changes will show all +
 then I delete some dummy lines, like this
 
 then commit
 then edit the file to keep it, it won't show file changes
+But in reality, this is not a conflict, so it doesn't work like that :))
+I delete line 6, cpnmmit, l6 still a +, not a -
