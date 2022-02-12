@@ -1,0 +1,7 @@
+3.33am, so I slept & wake up at the middle of the night to learn github :))
+now at https://github.com/jztroi/merge-conflicts/pull/3/files
+if I add a file & commit it, file changes will show all +
+then I delete some dummy lines, like this
+afhslkdjfhalkjfasfjahlsf
+then commit
+then edit the file to keep it, it won't show file changes
